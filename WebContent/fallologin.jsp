@@ -32,7 +32,7 @@
 	</div>
 	<div id="box2">
 		<h2>Fallo de login</h2>
-		El usuario y/o contraseña que ingresó es/son inválidos
+		El usuario y/o contraseña que ingresó es/son inválidos.
 		para regresar al login click <a href="login.jsp">aquí</a>
 	</div>
 	<div id="box3">
